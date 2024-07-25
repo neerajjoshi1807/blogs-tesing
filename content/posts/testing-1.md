@@ -5,7 +5,7 @@ description: testing description
 tags:
   - photogpt
 categories:
-  - Blogs
+  - skincare
 image: images/photogpt.png
 ---
 hello
