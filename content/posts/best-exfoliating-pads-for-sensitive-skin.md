@@ -1,6 +1,6 @@
 ---
 title: Best Exfoliating Pads for Sensitive Skin
-date: 2024-06-27T00:00:00+05:30
+date: 2024-07-25T00:00:00+05:30
 description: Discover the best exfoliating pads for sensitive skin that provide
   gentle exfoliation without irritation. Explore our top picks and their
   benefits for achieving a smooth and clear complexion.
