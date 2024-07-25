@@ -5,7 +5,7 @@ description: testing description
 tags:
   - photogpt
 categories:
-  - blogs
+  - Blogs
 image: images/photogpt.png
 ---
 hello
